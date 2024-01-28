@@ -13,7 +13,9 @@ This project involves a comprehensive analysis of movie data from IMDB. Our team
 1. **MySQL Database**: imdb_Tables_Backup.sql - Contains the primary movie data.
 2. **Revenue Data**: TSV files for 9 Movie box office numbers.
 3. **SCD2 Data**: JSON files for movie title and actor name changes.
-
+   
+## Data source files link : 
+https://northeastern-my.sharepoint.com/personal/naveenhks_northeastern_edu/_layouts/15/onedrive.aspx?csf=1&web=1&e=tgtZqp&cid=f54f53fb%2D9f4f%2D46c1%2Dbf67%2Dfce96f4321d1&id=%2Fpersonal%2Fnaveenhks%5Fnortheastern%5Fedu%2FDocuments%2FDAMG7370%5FFALL2023%2FIMDB&FolderCTID=0x012000050E74E63D77D24EAC181D0723FA1928&view=0
 ## Components
 - **Alteryx**: For data profiling and analysis.
 - **Talend**: To design and implement ETL processes.
