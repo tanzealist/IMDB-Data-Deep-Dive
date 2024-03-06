@@ -33,7 +33,11 @@ https://northeastern-my.sharepoint.com/personal/naveenhks_northeastern_edu/_layo
    - Set up Alteryx for data profiling.
    - Develop dashboards in Power BI and Tableau.
 
-## Analysis and Insights with Dashboard : https://app.powerbi.com/groups/4245cd51-53a4-4aac-984f-18f6bde6a73e/reports/231989c4-0bbf-41d3-91aa-27ad7fdf4fd2?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&pbi_source=linkShare&bookmarkGuid=6e77a78e-4c14-40be-82d6-ed8fbfdf4b3d
+## Analysis and Insights with Dashboard : 
+https://app.powerbi.com/groups/4245cd51-53a4-4aac-984f-18f6bde6a73e/reports/231989c4-0bbf-41d3-91aa-27ad7fdf4fd2?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&pbi_source=linkShare&bookmarkGuid=6e77a78e-4c14-40be-82d6-ed8fbfdf4b3d
+
+The dashboard contains below visualizations:
+
 ### Trend Analysis
 - Average movie runtime over the years.
 - Correlation between average movie rating and release year.
