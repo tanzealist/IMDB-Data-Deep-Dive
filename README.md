@@ -1,11 +1,11 @@
-# IMDB Data Analysis Project
+# FilmFlux Analytics: Data-Driven Movie Intelligence
 
 ## Overview
-This project involves a comprehensive analysis of movie data from IMDB. Our team has focused on various aspects such as trend analysis, genre analysis, performance metrics, director success metrics, actor and actress film records, seasonal analysis, release regions, and a special matrix for 9 box office movies.
+This project involves a comprehensive analysis of movie data from IMDB. This project focusus on various aspects such as trend analysis, genre analysis, performance metrics, director success metrics, actor and actress film records, seasonal analysis, release regions, and a special matrix for 9 box office movies.
 
 ## Objectives
 - Perform detailed data profiling and analysis to derive meaningful insights.
-- Develop ETL mappings and processes using Talend.
+- Develop ETL mappings and processes using Talend integrating multiple data sources.
 - Create interactive dashboards in Power BI and Tableau for visual analysis.
 - Write SQL queries to validate the data shown in the dashboards.
 
